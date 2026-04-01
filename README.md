@@ -1,7 +1,7 @@
 # Hi 👋,
   I'm Kishan Kumar
 
-💻 **Aspiring Machine Learning & Deep Learning Enthusiast**
+💻 **LEARNING Machine Learning & Deep Learning **
 
 ---
 
@@ -32,6 +32,7 @@ Some amazing educators who helped me a lot in my journey:
 * Krish Naik
 * Apna College
 * Gate Smashers
+* *nitish singh 
 
 ---
 
