@@ -29,11 +29,10 @@ Currently focusing on:
 
 Some amazing educators who helped me a lot in my journey:
 
-* Krish Naik
+* Krish Naik SIR
 * Apna College
 * Gate Smashers
-* *nitish singh 
-
+* NITISH SINGH SIR
 ---
 
 ## 🛠️ Tech Stack (Learning & Using)
@@ -51,7 +50,7 @@ Some amazing educators who helped me a lot in my journey:
 
 * Build **real-world ML/DL projects**
 * Improve **problem-solving & coding skills**
-* Contribute to **open source**
+* Contribute to open source**
 
 ---
 
