@@ -1,4 +1,5 @@
 # Hi 👋,
+
   I'm Kishan Kumar
 
 💻 **LEARNING Machine Learning & Deep Learning **
@@ -50,7 +51,7 @@ Some amazing educators who helped me a lot in my journey:
 
 * Build **real-world ML/DL projects**
 * Improve **problem-solving & coding skills**
-* Contribute to open source**
+* Contribute to **open source**
 
 ---
 
@@ -73,6 +74,9 @@ https://www.linkedin.com/in/kishan-kumar-2b7240324
 kishankumarthakur02@gmail.com
 
 ---
+
+
+
 
 ⭐ *Always learning, always building, always improving.*
 
