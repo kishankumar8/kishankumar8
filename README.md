@@ -26,7 +26,7 @@ Currently focusing on:
 
 ---
 
-## 🎓 Channels That Helped Me Learn
+## 🎓 Channels That Helped Me 
 
 Some amazing educators who helped me a lot in my journey:
 
