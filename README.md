@@ -1,4 +1,4 @@
-# Hi 👋,
+# HELLO 👋,
 
   I'm Kishan Kumar
 
@@ -80,7 +80,7 @@ kishankumarthakur02@gmail.com
 
 ⭐ *Always learning, always building, always improving.*
 
-
+ AND ALL SET!
 
 </END>
 
