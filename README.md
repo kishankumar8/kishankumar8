@@ -4,6 +4,7 @@
 
 💻 **LEARNING Machine Learning & Deep Learning **
 
+
 ---
 
 ## 🚀 About Me
@@ -34,6 +35,7 @@ Some amazing educators who helped me a lot in my journey:
 * Apna College
 * Gate Smashers
 * NITISH SINGH SIR
+
 ---
 
 ## 🛠️ Tech Stack (Learning & Using)
@@ -43,6 +45,7 @@ Some amazing educators who helped me a lot in my journey:
 * Pandas
 * Scikit-Learn
 * TensorFlow / PyTorch (learning)
+* SQL,MONGODB(learning)
 * Git & GitHub
 
 ---
