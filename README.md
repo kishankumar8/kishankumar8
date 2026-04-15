@@ -35,7 +35,7 @@ Some amazing educators who helped me a lot in my journey:
 * Krish Naik SIR
 * Apna College
 * Gate Smashers
-* NITISH SINGH SIR
+* CampusX(NITISH SINGH SIR)
 
 ---
 
