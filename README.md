@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Kishan Kumar**, a passionate tearner currently exploring the exciting world of **Machine Learning** and **Deep Learning**. I enjoy building things with code and I'm starting to work on **real-world projects** to improve my practical skills.
+Hello! I'm **Kishan Kumar**, a passionate earner currently exploring the exciting world of **Machine Learning** and **Deep Learning**. I enjoy building things with code and I'm starting to work on **real-world projects** to improve my practical skills.
 
 I believe in continuous learning and improving every day through coding, projects, and community knowledge.
 
