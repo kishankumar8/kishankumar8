@@ -30,13 +30,11 @@ Currently focusing on:
 
 Some amazing educators who helped me a lot in my journey:
 
-* K
+* CampusX(Nitish singh sir)
 * Apna College
-* 
 * Krish Naik(krish naik sir)
-
 * love babber
-* 
+  
 
 ---
 
