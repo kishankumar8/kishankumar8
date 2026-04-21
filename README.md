@@ -32,10 +32,10 @@ Some amazing educators who helped me a lot in my journey:
 
 * Krish Naik(krish naik sir)
 * Apna College
-* Gate Smashers
+* Gate S
 * CampusX(NITISH SINGH SIR)
 * love babber
-* code
+* 
 
 ---
 
