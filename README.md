@@ -42,7 +42,6 @@ Some amazing educators who helped me a lot in my journey:
 * love babber
 * code with harry
 * 
-
   
 
 ---
