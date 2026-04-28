@@ -55,7 +55,6 @@ Some amazing educators who helped me a lot in my journey:
 * SQL,MONGODB (learning)
 * Git & GitHub
 * 
-
 ---
 
 ## 🌱 Current Goal
