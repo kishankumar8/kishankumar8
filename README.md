@@ -40,7 +40,7 @@ Some amazing educators who helped me a lot in my journey:
 * Krish Naik(krish naik sir)
 * love babber
 * code with harry
-* 
+  
   
 
 ---
