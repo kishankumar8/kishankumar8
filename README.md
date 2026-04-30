@@ -6,7 +6,6 @@ I'm Kishan Kumar
 
 ---
 
-
 ## 🚀 About Me
 
 Hello! I'm **Kishan Kumar**, a passionate learner currently exploring the exciting world of **Machine Learning** and **Deep Learning**. I enjoy building things with code and I'm starting to work on **real-world projects** to improve my practical skills.
