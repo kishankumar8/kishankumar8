@@ -51,7 +51,6 @@ Some amazing educators who helped me a lot in my journey:
 * TensorFlow / PyTorch (learning)
 * SQL,MONGODB (learning)
 * Git & GitHub
-
 *
 ---
 
