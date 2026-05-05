@@ -70,7 +70,7 @@ Some amazing educators who helped me a lot in my journey:
 
 ---
 
-#
+#OPEN
 ## 🎯 Interests
 
 Outside of coding, I enjoy:
