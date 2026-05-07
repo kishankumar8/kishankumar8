@@ -74,7 +74,7 @@ Some amazing educators who helped me a lot in my journey:
 ---
 
 
-#OPEN FOR INTERNSHIP
+# OPEN FOR INTERNSHIP
 
 
 ## 🎯 Interests
