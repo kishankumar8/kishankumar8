@@ -86,6 +86,7 @@ Outside of coding, I enjoy:
 * 🏏 Playing Cricket
 * 💻 Exploring new technologies
 * learn and play guitar
+* love to listen music
 
 ---
 
