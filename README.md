@@ -70,7 +70,7 @@ Some amazing educators who helped me a lot in my journey:
 * Build **real-world ML/DL projects**
 * Improve **problem-solving & coding skills**
 * Contribute to **open source**
-* 
+
 
 
 ---
