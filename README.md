@@ -42,9 +42,9 @@ Currently focusing on :
 
 Some amazing educators who helped me a lot in my journey:
 
-* CampusX(Nitish singh sir)
+* CampusX (Nitish singh sir)
 * Apna College
-* Krish Naik(krish naik sir)
+* Krish Naik (krish naik sir)
 * love babber
 * code with harry
 * 
