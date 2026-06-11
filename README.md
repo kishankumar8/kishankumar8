@@ -74,7 +74,6 @@ Some amazing educators who helped me a lot in my journey:
 * Contribute to **open source**
 
 
-
 ---
 
 -> currently building some projects .
@@ -92,7 +91,6 @@ Outside of coding, I enjoy:
 * learn and play guitar
 * love to listen music
 * 
-
 
 ---
 
