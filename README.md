@@ -41,7 +41,7 @@ Currently focusing on :
 ## 🎓 Channels That He
 
 Some amazing educators who helped me a lot in my jo
-* CampusX (Nitish singh sir)
+* CampusX (Nitish singh
 * Apna College
 * Krish Naik (krish naik sir)
 * love 
