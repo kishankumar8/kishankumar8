@@ -50,8 +50,7 @@ Some amazing educators who helped me a lot in my journey:
 * code with harry
   
   
----
-
+--
 
 ## 🛠️ Tech Stack (Learning & Using)
 
