@@ -47,8 +47,7 @@ Some amazing educators who helped me a lot in my journey:
 * Apna College
 * Krish Naik (krish naik sir)
 * love 
-* code with harry
-  
+* code with 
   
 --
 
