@@ -42,7 +42,7 @@ Currently focusing on :
 
 Some amazing educators who helped me a lot in my jo
 * CampusX (Nitish singh
-* Apna College
+* Apna Co
 * Krish Naik (krish naik sir)
 * love 
 * code with 
