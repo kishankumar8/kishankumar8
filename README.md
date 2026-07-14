@@ -41,8 +41,7 @@ Currently focusing on :
 ## 🎓 Channels That Helped
 
 
-Some amazing educators who helped me a lot in my journey:
-
+Some amazing educators who helped me a lot in my jo
 * CampusX (Nitish singh sir)
 * Apna College
 * Krish Naik (krish naik sir)
