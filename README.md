@@ -38,8 +38,7 @@ Currently focusing on :
 ---
 
 
-## 🎓 Channels That Helped
-
+## 🎓 Channels That He
 
 Some amazing educators who helped me a lot in my jo
 * CampusX (Nitish singh sir)
