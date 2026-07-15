@@ -42,8 +42,7 @@ Some amazing educators who helped me a lot in my jo
 * Apna Co
 * Krish Naik (krish naik sir)
 * love 
-* code 
-  
+* 
 --
 
 ## 🛠️ Tech Stack (Learning & Using)
