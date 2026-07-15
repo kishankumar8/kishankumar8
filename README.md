@@ -40,7 +40,7 @@ Currently focusing on :
 Some amazing educators who helped me a lot in my jo
 * CampusX (Nitish singh
 * Apna Co
-* Krish Naik (krish naik sir)
+* Krish Naik (krish naik
 * love 
 
 --
