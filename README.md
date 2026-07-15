@@ -39,7 +39,7 @@ Currently focusing on :
 
 Some amazing educators who helped me a lot in my jo
 * CampusX (Nitish singh
-* Apna Co
+* Apna
 * Krish Naik ( 
 
 ## 🛠️ Tech Stack (Learning & Using)
