@@ -38,7 +38,7 @@ Currently focusing on :
 ## 🎓 Channels That He
 
 Some amazing educators who helped me a lot in my jo
-* CampusX (Nitish singh
+* CampusX (Nitish
 * Kr
 
 ## 🛠️ Tech Stack (Learning & Using)
