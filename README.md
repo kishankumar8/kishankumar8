@@ -35,8 +35,7 @@ Currently focusing on :
 ---
 
 
-## 🎓 Channels That He
-
+## 🎓 Channels That H
 Some amazing educators who helped me a lot in 
   
 
