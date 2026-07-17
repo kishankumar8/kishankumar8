@@ -39,7 +39,7 @@ Currently focusing on :
 
 Some amazing educators who helped me a lot in my jo
 * CampusX (Nitish
-* Kr
+  
 
 ## 🛠️ Tech Stack (Learning & Using)
 
