@@ -36,8 +36,7 @@ Currently focusing on :
 
 
 ## 🎓 Channe
-Some 
-
+S
 ## 🛠️ Tech Stack (Learning & Using)
 
 * Python
