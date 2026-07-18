@@ -35,7 +35,7 @@ Currently focusing on :
 ---
 
 
-## 🎓 Ch
+## 🎓
 ## 🛠️ Tech Stack (Learning & Using)
 
 * Python
