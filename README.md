@@ -36,7 +36,7 @@ Currently focusing on :
 
 
 ## 🎓 Channels 
-Some amazing educator
+Some amazing educa
   
 
 ## 🛠️ Tech Stack (Learning & Using)
