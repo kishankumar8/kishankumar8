@@ -35,7 +35,7 @@ Currently focusing on :
 ---
 
 
-## 🎓 Chann
+## 🎓 Ch
 ## 🛠️ Tech Stack (Learning & Using)
 
 * Python
