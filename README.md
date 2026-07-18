@@ -36,7 +36,7 @@ Currently focusing on :
 
 
 ## 🎓 Channe
-Some amazing educa
+Some amazing ed
   
 
 ## 🛠️ Tech Stack (Learning & Using)
