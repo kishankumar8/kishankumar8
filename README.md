@@ -36,7 +36,7 @@ Currently focusing on :
 
 
 ## 🎓 Channels That H
-Some amazing educators who hel
+Some amazing educators who 
   
 
 ## 🛠️ Tech Stack (Learning & Using)
