@@ -44,7 +44,7 @@ Currently focusing on :
 * TensorFlow / PyTorch (learning)
 * SQL , MONGODB (learning)
 * Git & GitHub
-*
+
 
 ---
 
