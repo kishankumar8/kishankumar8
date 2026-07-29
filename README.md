@@ -89,7 +89,8 @@ kishankumarthakur02@gmail.com
 **leetcode:**==
 https://leetcode.com/u/kishankumar8/
 
-**kaggle:**==https://www.kaggle.com/kishank8
+**kaggle:**==
+https://www.kaggle.com/kishank8
 
 ---
 
