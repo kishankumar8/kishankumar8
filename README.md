@@ -58,7 +58,7 @@ Currently focusing on :
 
 ---
 
-# cur
+#
 
 # OPEN FOR INTERNSHIP
 
