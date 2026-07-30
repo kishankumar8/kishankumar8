@@ -58,7 +58,7 @@ Currently focusing on :
 
 ---
 
-# currently b
+# current
 
 # OPEN FOR INTERNSHIP
 
