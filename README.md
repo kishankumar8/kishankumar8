@@ -78,7 +78,7 @@ Outside of coding, I enjoy:
 
 ## 📫 Connect With Me
 
-🔗 **LinkedIn:**==
+🔗 **LinkedIn:**==>
 https://www.linkedin.com/in/kishan-kumar-2b7240324
 
 
