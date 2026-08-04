@@ -82,7 +82,7 @@ Outside of coding, I enjoy:
 https://www.linkedin.com/in/kishan-kumar-2b7240324
 
 
-📧 **Email:** --==>
+📧 **Email:** -->
 kishankumarthakur02@gmail.com
 
 **leetcode:** ->
