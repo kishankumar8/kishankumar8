@@ -71,8 +71,7 @@ Outside of coding, I enjoy:
 * 💻 Exploring new technologies
 * learn and play guitar
 * love to listen music
-* 
-
+  
 ---
 
 
