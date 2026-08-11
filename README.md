@@ -22,7 +22,7 @@ I believe in continuous learning and improving every day through coding, project
 ## 📚 Learning Journey
 
 
-Currently focusing on :
+Currently focusing on :-
 
 * Machine Learning 🤖
 * Deep Learning 🧠
