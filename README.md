@@ -52,7 +52,7 @@ Currently focusing on :
 ## 🌱 Current Goal
 
 * Build **real-world ML/DL projects**
-* 
+ 
 * Improve **problem-solving & coding skills**
 * 
 * Contribute to **open source**
