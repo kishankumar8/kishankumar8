@@ -76,6 +76,8 @@ Outside of coding, I enjoy:
   
 ---
 
+# competions
+
 
 ## 📫 Connect With Me
 
