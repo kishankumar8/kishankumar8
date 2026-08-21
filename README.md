@@ -79,11 +79,11 @@ Outside of coding, I enjoy:
 # competitions
 
 -> participated in kaggle compitition to build  ml models for 
-  -> **Titanic,
+  -> **Titanic
   
-  ->house_price_prediction,
+  -> **house_price_prediction
   
-  ->Spaceship** .
+  -> **Spaceship** .
   
   
 
