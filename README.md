@@ -79,7 +79,9 @@ Outside of coding, I enjoy:
 # competitions
 
 -> participated in kaggle compitition to build  ml models for 
-  -> **Titanic,house_price_prediction,Spaceship** .
+  -> **Titanic,
+  ->house_price_prediction,
+  ->Spaceship** .
 
 
 ## 📫 Connect With Me
