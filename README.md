@@ -61,7 +61,7 @@ Currently focusing on :-
 ---
 
 
-# OPEN FOR INTERNSHIP
+# OPEN FOR INTERN
 
 
 ## 🎯 Interests
