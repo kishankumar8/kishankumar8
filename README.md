@@ -61,7 +61,7 @@ Currently focusing on :-
 ---
 
 
-# OPEN FOR IN
+# OPEN FO
 
 ## 🎯 Interests
 
