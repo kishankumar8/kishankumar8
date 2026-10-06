@@ -80,6 +80,8 @@ Outside of coding, I enjoy:
 
 -> participated in **Kaggle Compitition** to build  ml models .
 
+# OPEN FOR INTERNSHIP
+
   -> **Titanic**
   
   -> **house_price_prediction**
