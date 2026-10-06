@@ -78,7 +78,7 @@ Outside of coding, I enjoy:
 
 # competitions
 
--> participated in kaggle compitition to build  ml models 
+-> participated in **Kaggle Compitition** to build  ml models 
 
   -> **Titanic**
   
