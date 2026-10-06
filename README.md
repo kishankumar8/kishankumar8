@@ -61,7 +61,6 @@ Currently focusing on :-
 ---
 
 
-# O
 
 ## 🎯 Interests
 
