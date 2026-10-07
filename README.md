@@ -82,8 +82,7 @@ Outside of coding, I enjoy:
   
   -> **house_price_prediction**
   
-  -> **Spa
-
+  -> **
 
 ## 📫 Connect With Me
 
