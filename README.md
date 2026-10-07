@@ -84,7 +84,7 @@ Outside of coding, I enjoy:
   
   -> **house_price_prediction**
   
-  -> **Spaceship
+  -> **Spaces
 
 
 ## 📫 Connect With Me
