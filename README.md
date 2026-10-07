@@ -79,7 +79,7 @@ Outside of coding, I enjoy:
 -> participated in **Kaggle Compitition** to build  ml models .
 
 # OPEN FOR INT
-  -> **Ti
+  -> *
   
   -> **house_price_prediction**
   
