@@ -80,7 +80,7 @@ Outside of coding, I enjoy:
 
 
   
-  -> **house_price
+  -> **house_pri
   
   
 
