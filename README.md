@@ -78,7 +78,7 @@ Outside of coding, I enjoy:
 
 -> participated in **Kaggle Compitition** to build  ml models .
 
-# OPE
+# 
   
   -> **house_price_prediction**
   
