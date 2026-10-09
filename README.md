@@ -80,8 +80,7 @@ Outside of coding, I enjoy:
 
 
   
-  -> **hou
-  
+  -> **ho
 
 ## 📫 Connect With Me
 
