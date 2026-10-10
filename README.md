@@ -82,19 +82,19 @@ Outside of coding, I enjoy:
 
 ## 📫 Connect With Me
 
-🔗 **LinkedIn:** -->
+🔗 **LinkedIn :** -->
 https://www.linkedin.com/in/kishan-kumar-2b7240324
 
 
-📧 **Email:** -->
+📧 **Email :** -->
 kishankumarthakur02@gmail.com
 
 
-**leetcode:** -->
+**leetcode :** -->
 https://leetcode.com/u/kishankumar8/
 
 
-**kaggle:** -->
+**kaggle :** -->
 https://www.kaggle.com/kishank8
 
 
